@@ -9,6 +9,9 @@ Answering this question means measuring the multiple dimension of governmental a
 Data Loading and Preprocessing: CSV and Shape Files are loaded, combined, and cleaned. This includes handling missing values, normalization, and encoding categorical features.
 Data Visualization
 
+# Requirements
+To run this code, install Python as well as the libraries used in the code: pandas, numpy, sklearn, seaborn, matplotlib, geopandas
+
 # Project Findings
 1. There is a strong relationship between R&D Spending and Adoption of Emerging Technology. Which shows that a country spending in Research and Development shows their willingness to adopt emerging technology.
 2. There is not much relationship between the number of Graduates in STEM and a country's Number of AI citable documents. That means even if a country has more graduate students interested from STEM, it doesn't mean they will go on to do research in A.I.
